@@ -30,3 +30,14 @@ Install dependencies for each files using
 ```bash
   npm install
 ```
+Install dependencies for each files using
+
+```bash
+  npm install
+```
+
+Start the Frond-end & Back-end
+
+```bash
+ npm run dev
+```
