@@ -16,13 +16,13 @@ Created an automated certificate generation platform using the MERN Stack (Mongo
 Clone the project
 
 ```bash
-  git clone https://github.com/TVVinudev/DLibra.git
+  git clone https://github.com/TVVinudev/Award-Designer.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd DLibra
+  cd Award-Designer
 ```
 
 Install dependencies for each files using
